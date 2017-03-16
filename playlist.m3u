@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-#EXTINF:-1, tvg-id="TF1" tvg-logo="Logo N/A" tvg-name="TF1"  group-title="Group N/A",TF1
+#EXTINF:-1, tvg-id="TF1" tvg-logo="tf1hd.png" tvg-name="TF1"  group-title="Group N/A",TF1
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/334.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="France 2" tvg-logo="Logo N/A" tvg-name="France 2"  group-title="Group N/A",France 2
