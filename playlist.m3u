@@ -1,31 +1,31 @@
 ﻿#EXTM3U
 
 #EXTINF:-1, tvg-id="TF1" tvg-logo="tf1hd.png" tvg-name="TF1"  group-title="Group N/A",TF1
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/334.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/207.ts&amp;streamtype=TSDOWNLOADER
 
-#EXTINF:0, tvg-id="France 2" tvg-logo="Logo N/A" tvg-name="France 2"  group-title="Group N/A",France 2
+#EXTINF:0, tvg-id="France 2" tvg-logo="france2hd.png" tvg-name="France 2"  group-title="Group N/A",France 2
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201
 
-#EXTINF:0, tvg-id="France 3" tvg-logo="Logo N/A" tvg-name="France 3"  group-title="Group N/A",France 3
+#EXTINF:0, tvg-id="France 3" tvg-logo="france3hd.png" tvg-name="France 3"  group-title="Group N/A",France 3
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202
 
-#EXTINF:0, tvg-id="Canal+" tvg-logo="Logo N/A" tvg-name="Canal+"  group-title="Group N/A",Canal+
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/147.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:0, tvg-id="Canal+" tvg-logo="canal+hd-fra.png" tvg-name="Canal+"  group-title="Group N/A",Canal+
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/201.ts&amp;streamtype=TSDOWNLOADER
 
-#EXTINF:0, tvg-id="France 5" tvg-logo="Logo N/A" tvg-name="France 5"  group-title="Group N/A",France 5
+#EXTINF:0, tvg-id="France 5" tvg-logo="france5hd.png" tvg-name="France 5"  group-title="Group N/A",France 5
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=203
 
-#EXTINF:0, tvg-id="M6" tvg-logo="Logo N/A" tvg-name="M6"  group-title="Group N/A",M6
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/127.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:0, tvg-id="M6" tvg-logo="m6hd.png" tvg-name="M6"  group-title="Group N/A",M6
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/216.ts&amp;streamtype=TSDOWNLOADER
 
-#EXTINF:0, tvg-id="ART1.kazer.org" tvg-logo="Logo N/A" tvg-name="Arte"  group-title="Group N/A",Arte
+#EXTINF:0, tvg-id="Arte" tvg-logo="Logo N/A" tvg-name="Arte"  group-title="Group N/A",Arte
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204
 
 #EXTINF:0, tvg-id="D8" tvg-logo="Logo N/A" tvg-name="C8"  group-title="Group N/A",C8
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=372&flavour=sd
 
 #EXTINF:0, tvg-id="W9" tvg-logo="Logo N/A" tvg-name="W9"  group-title="Group N/A",W9
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/128.ts&amp;streamtype=TSDOWNLOADER&amp
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/224.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="TMC" tvg-logo="Logo N/A" tvg-name="TMC"  group-title="Group N/A",TMC
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=497
@@ -39,32 +39,32 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=375
 #EXTINF:0, tvg-id="La Chaîne parlementaire" tvg-logo="Logo N/A" tvg-name="La Chaîne Parlementaire"  group-title="Group N/A",La Chaîne Parlementaire
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=226
 
-#EXTINF:0, tvg-id="FRA4.kazer.org" tvg-logo="Logo N/A" tvg-name="France 4"  group-title="Group N/A",France 4
+#EXTINF:0, tvg-id="France 4" tvg-logo="Logo N/A" tvg-name="France 4"  group-title="Group N/A",France 4
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=376
 
 #EXTINF:0, tvg-id="BFM TV" tvg-logo="Logo N/A" tvg-name="BFM TV"  group-title="Group N/A",BFM TV
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=400
 
-#EXTINF:0, tvg-id="ITL1.kazer.org" tvg-logo="Logo N/A" tvg-name="iTELE"  group-title="Group N/A",iTELE
+#EXTINF:0, tvg-id="iTélé" tvg-logo="Logo N/A" tvg-name="iTELE"  group-title="Group N/A",iTELE
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=679&flavour=sd
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CStar"  group-title="Group N/A",CStar
+#EXTINF:0, tvg-id="Ciné+ Star" tvg-logo="Logo N/A" tvg-name="CStar"  group-title="Group N/A",CStar
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=678
 
 #EXTINF:0, tvg-id="Gulli" tvg-logo="Logo N/A" tvg-name="Gulli"  group-title="Group N/A",Gulli
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=677
 
-#EXTINF:0, tvg-id="FRA1.kazer.org" tvg-logo="Logo N/A" tvg-name="France Ô"  group-title="Group N/A",France Ô
+#EXTINF:0, tvg-id="France Ô" tvg-logo="Logo N/A" tvg-name="France Ô"  group-title="Group N/A",France Ô
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=238
 
 #EXTINF:0, tvg-id="HD1" tvg-logo="Logo N/A" tvg-name="HD1"  group-title="Group N/A",HD1
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/131.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/861.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="L'Equipe 21" tvg-logo="Logo N/A" tvg-name="L'Equipe"  group-title="Group N/A",L'Equipe
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=994
 
 #EXTINF:0, tvg-id="6ter" tvg-logo="Logo N/A" tvg-name="6ter"  group-title="Group N/A",6ter
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/132.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/23536485763574/1593574628/151.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Numéro 23" tvg-logo="Logo N/A" tvg-name="Numéro 23"  group-title="Group N/A",Numéro 23
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=996
@@ -76,7 +76,7 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=997
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=998
 
 #EXTINF:0, tvg-id="LCI - La Chaîne Info" tvg-logo="Logo N/A" tvg-name="LCI"  group-title="Group N/A",LCI
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/fast/fast/1587.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1227.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Franceinfo"  group-title="Group N/A",Franceinfo
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1173
@@ -88,19 +88,19 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=213&flavour=ld
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=210
 
 #EXTINF:0, tvg-id="beIN SPORTS 1" tvg-logo="Logo N/A" tvg-name="beIN SPORTS 1"  group-title="Group N/A",beIN SPORTS 1
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/330.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/199.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="beIN SPORTS 2" tvg-logo="Logo N/A" tvg-name="beIN SPORTS 2"  group-title="Group N/A",beIN SPORTS 2
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/331.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/200.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="beIN SPORTS 3" tvg-logo="Logo N/A" tvg-name="beIN SPORTS 3"  group-title="Group N/A",beIN SPORTS 3
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/332.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/594.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Eurosport" tvg-logo="Logo N/A" tvg-name="Eurosport 1"  group-title="Group N/A",Eurosport 1
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/302.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/206.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Eurosport 2" tvg-logo="Logo N/A" tvg-name="Eurosport 2"  group-title="Group N/A",Eurosport 2
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/3227.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1256.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="QVC"  group-title="Group N/A",QVC
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1121
@@ -115,40 +115,40 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=404&flavour=ld
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=211
 
 #EXTINF:0, tvg-id="Canal+ Cinéma" tvg-logo="Logo N/A" tvg-name="C+ Cinema"  group-title="Group N/A",C+ Cinema
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/149.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/202.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Canal+ Sport" tvg-logo="Logo N/A" tvg-name="C+ Sport"  group-title="Group N/A",C+ Sport
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/277.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/205.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Canal+ Séries" tvg-logo="Logo N/A" tvg-name="C+ Séries"  group-title="Group N/A",C+ Séries
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/329.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/868.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Canal+ Family" tvg-logo="Logo N/A" tvg-name="C+ Family"  group-title="Group N/A",C+ Family
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/151.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/204.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Canal+ Décalé" tvg-logo="Logo N/A" tvg-name="C+ Décalé"  group-title="Group N/A",C+ Décalé
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/148.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/203.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Disney Channel" tvg-logo="Logo N/A" tvg-name="Disney Channel"  group-title="Group N/A",Disney Channel
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/994.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/236.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Disney Cinema" tvg-logo="Logo N/A" tvg-name="Disney Cinéma"  group-title="Group N/A",Disney Cinéma
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/179.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/901.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Ciné+ Premier" tvg-logo="Logo N/A" tvg-name="Ciné+ Premier"  group-title="Group N/A",Ciné+ Premier
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/155.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/878.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="OCS Max" tvg-logo="Logo N/A" tvg-name="OCS Max"  group-title="Group N/A",OCS Max
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/160.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/902.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="OCS City" tvg-logo="Logo N/A" tvg-name="OCS City"  group-title="Group N/A",OCS City
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/162.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/698.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="OCS Choc" tvg-logo="Logo N/A" tvg-name="OCS Choc"  group-title="Group N/A",OCS Choc
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/159.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/959.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="OCS Géants" tvg-logo="Logo N/A" tvg-name="OCS Géants"  group-title="Group N/A",OCS Géants
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/161.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/903.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Action" tvg-logo="Logo N/A" tvg-name="Action"  group-title="Group N/A",Action
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=242
@@ -186,7 +186,7 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1135
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Enorme TV"  group-title="Group N/A",Enorme TV
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1037
 
-#EXTINF:0, tvg-id="NOL1.kazer.org" tvg-logo="Logo N/A" tvg-name="Nolife"  group-title="Group N/A",Nolife
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nolife"  group-title="Group N/A",Nolife
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=658
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GONG"  group-title="Group N/A",GONG
@@ -195,31 +195,31 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1045
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GONG MAX"  group-title="Group N/A",GONG MAX
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=813
 
-#EXTINF:0, tvg-id="KAZ1.kazer.org" tvg-logo="Logo N/A" tvg-name="KZTV"  group-title="Group N/A",KZTV
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KZTV"  group-title="Group N/A",KZTV
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=801
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ginx"  group-title="Group N/A",Ginx
+#EXTINF:0, tvg-id="Ginx" tvg-logo="Logo N/A" tvg-name="Ginx"  group-title="Group N/A",Ginx
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=618&flavour=sd
 
-#EXTINF:0, tvg-id="CIN2.kazer.org" tvg-logo="Logo N/A" tvg-name="Ciné Polar"  group-title="Group N/A",Ciné Polar
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ciné Polar"  group-title="Group N/A",Ciné Polar
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=244
 
-#EXTINF:0, tvg-id="CIN1.kazer.org" tvg-logo="Logo N/A" tvg-name="Ciné FX"  group-title="Group N/A",Ciné FX
+#EXTINF:0, tvg-id="Ciné FX" tvg-logo="Logo N/A" tvg-name="Ciné FX"  group-title="Group N/A",Ciné FX
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=243
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Paramount Décalé"  group-title="Group N/A",Paramount Décalé
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1167
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eurochannel"  group-title="Group N/A",Eurochannel
+#EXTINF:0, tvg-id="Eurochannel" tvg-logo="Logo N/A" tvg-name="Eurochannel"  group-title="Group N/A",Eurochannel
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=959&flavour=hd
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Toonami"  group-title="Group N/A",Toonami
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1163
 
-#EXTINF:0, tvg-id="MOT1.kazer.org" tvg-logo="Logo N/A" tvg-name="AB Moteurs"  group-title="Group N/A",AB Moteurs
+#EXTINF:0, tvg-id="AB Moteurs" tvg-logo="Logo N/A" tvg-name="AB Moteurs"  group-title="Group N/A",AB Moteurs
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=222
 
-#EXTINF:0, tvg-id="EQU1.kazer.org" tvg-logo="Logo N/A" tvg-name="Equidia Live"  group-title="Group N/A",Equidia Live
+#EXTINF:0, tvg-id="Equidia Live" tvg-logo="Logo N/A" tvg-name="Equidia Live"  group-title="Group N/A",Equidia Live
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=212
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Trace Sport Stars"  group-title="Group N/A",Trace Sport Stars
@@ -234,7 +234,7 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=982&flavour=hd
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Motorvision"  group-title="Group N/A",Motorvision
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1127&flavour=hd
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nautical Channel"  group-title="Group N/A",Nautical Channel
+#EXTINF:0, tvg-id="Nautical Channel" tvg-logo="Logo N/A" tvg-name="Nautical Channel"  group-title="Group N/A",Nautical Channel
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=255
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Golf Channel"  group-title="Group N/A",Golf Channel
@@ -243,19 +243,19 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=892
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Premiere Futebol Clube"  group-title="Group N/A",Premiere Futebol Clube
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=755&flavour=sd
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Histoire"  group-title="Group N/A",Histoire
+#EXTINF:0, tvg-id="Histoire" tvg-logo="Logo N/A" tvg-name="Histoire"  group-title="Group N/A",Histoire
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=235&flavour=sd
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Toute l'Histoire"  group-title="Group N/A",Toute l'Histoire
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=250
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Science & Vie TV"  group-title="Group N/A",Science & Vie TV
+#EXTINF:0, tvg-id="Science &amp; Vie TV" tvg-logo="Logo N/A" tvg-name="Science & Vie TV"  group-title="Group N/A",Science & Vie TV
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=251
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Animaux"  group-title="Group N/A",Animaux
+#EXTINF:0, tvg-id="Animaux" tvg-logo="Logo N/A" tvg-name="Animaux"  group-title="Group N/A",Animaux
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=248
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Trek"  group-title="Group N/A",Trek
+#EXTINF:0, tvg-id="Trek" tvg-logo="Logo N/A" tvg-name="Trek"  group-title="Group N/A",Trek
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=252
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Aerostar"  group-title="Group N/A",Aerostar
@@ -276,16 +276,16 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=825&flavour=hd
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Travel Channel"  group-title="Group N/A",Travel Channel
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=772&flavour=sd
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Chasse et pêche"  group-title="Group N/A",Chasse et pêche
+#EXTINF:0, tvg-id="Chasse et pêche" tvg-logo="Logo N/A" tvg-name="Chasse et pêche"  group-title="Group N/A",Chasse et pêche
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=249
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telesud"  group-title="Group N/A",Telesud
+#EXTINF:0, tvg-id="Télésud" tvg-logo="Logo N/A" tvg-name="Telesud"  group-title="Group N/A",Telesud
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=356&flavour=sd
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Campagnes TV"  group-title="Group N/A",Campagnes TV
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1029
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="M6 Boutique & Co"  group-title="Group N/A",M6 Boutique & Co
+#EXTINF:0, tvg-id="M6 Boutique &amp; Co" tvg-logo="Logo N/A" tvg-name="M6 Boutique & Co"  group-title="Group N/A",M6 Boutique & Co
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=359
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Best of Shopping"  group-title="Group N/A",Best of Shopping
