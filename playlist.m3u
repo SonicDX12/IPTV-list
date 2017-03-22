@@ -1,19 +1,19 @@
 ﻿#EXTM3U
 
 #EXTINF:0, tvg-id="TF1" tvg-logo="tf1hd.png" tvg-name="TF1"  group-title="Group N/A",TF1
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1501.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/84.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="France 2" tvg-logo="france2hd.png" tvg-name="France 2"  group-title="Group N/A",France 2
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=sd
 
 #EXTINF:0, tvg-id="France 3" tvg-logo="france3hd.png" tvg-name="France 3"  group-title="Group N/A",France 3
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=sd
 
 #EXTINF:0, tvg-id="Canal+" tvg-logo="canal+hd-fra.png" tvg-name="Canal+"  group-title="Group N/A",Canal+
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/oussama/oussama/8212.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/112.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="France 5" tvg-logo="france5hd.png" tvg-name="France 5"  group-title="Group N/A",France 5
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=203
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=203&flavour=sd
 
 #EXTINF:0, tvg-id="M6" tvg-logo="m6hd.png" tvg-name="M6"  group-title="Group N/A",M6
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/90.ts&amp;streamtype=TSDOWNLOADER
@@ -443,3 +443,12 @@ http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.wedobox.
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rai Tre"  group-title="Group N/A",Rai Tre
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.wedobox.eu:8000/live/line09/gSq01fAByj/1631.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Italia 1"  group-title="Group N/A",Italia 1
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/789.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rete 4"  group-title="Group N/A",Rete 4
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/787.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 5"  group-title="Group N/A",Canal 5
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/78.ts&amp;streamtype=TSDOWNLOADER
