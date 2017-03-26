@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
 #EXTINF:0, tvg-id="TF1" tvg-logo="tf1hd.png" tvg-name="TF1"  group-title="Group N/A",TF1
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/84.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/703.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="France 2" tvg-logo="france2hd.png" tvg-name="France 2"  group-title="Group N/A",France 2
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=sd
@@ -10,13 +10,13 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=sd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=sd
 
 #EXTINF:0, tvg-id="Canal+" tvg-logo="canal+hd-fra.png" tvg-name="Canal+"  group-title="Group N/A",Canal+
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/112.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/743.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="France 5" tvg-logo="france5hd.png" tvg-name="France 5"  group-title="Group N/A",France 5
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=203&flavour=sd
 
 #EXTINF:0, tvg-id="M6" tvg-logo="m6hd.png" tvg-name="M6"  group-title="Group N/A",M6
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/90.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/711.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Arte" tvg-logo="Logo N/A" tvg-name="Arte"  group-title="Group N/A",Arte
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204
@@ -25,7 +25,7 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=372&flavour=sd
 
 #EXTINF:0, tvg-id="W9" tvg-logo="Logo N/A" tvg-name="W9"  group-title="Group N/A",W9
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1507.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/700.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="TMC" tvg-logo="Logo N/A" tvg-name="TMC"  group-title="Group N/A",TMC
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=497
@@ -64,7 +64,7 @@ http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=994
 
 #EXTINF:0, tvg-id="6ter" tvg-logo="Logo N/A" tvg-name="6ter"  group-title="Group N/A",6ter
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1509.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/1935.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Numéro 23" tvg-logo="Logo N/A" tvg-name="Numéro 23"  group-title="Group N/A",Numéro 23
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=996
@@ -115,40 +115,40 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=404&flavour=ld
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=211
 
 #EXTINF:0, tvg-id="Canal+ Cinéma" tvg-logo="Logo N/A" tvg-name="C+ Cinema"  group-title="Group N/A",C+ Cinema
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/113.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/742.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Canal+ Sport" tvg-logo="Logo N/A" tvg-name="C+ Sport"  group-title="Group N/A",C+ Sport
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/100.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/739.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Canal+ Séries" tvg-logo="Logo N/A" tvg-name="C+ Séries"  group-title="Group N/A",C+ Séries
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/69.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/740.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Canal+ Family" tvg-logo="Logo N/A" tvg-name="C+ Family"  group-title="Group N/A",C+ Family
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/115.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/741.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Canal+ Décalé" tvg-logo="Logo N/A" tvg-name="C+ Décalé"  group-title="Group N/A",C+ Décalé
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/153.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Disney Channel" tvg-logo="Logo N/A" tvg-name="Disney Channel"  group-title="Group N/A",Disney Channel
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/198.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/772.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Disney Cinema" tvg-logo="Logo N/A" tvg-name="Disney Cinéma"  group-title="Group N/A",Disney Cinéma
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/453.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Ciné+ Premier" tvg-logo="Logo N/A" tvg-name="Ciné+ Premier"  group-title="Group N/A",Ciné+ Premier
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/312.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/731.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="OCS Max" tvg-logo="Logo N/A" tvg-name="OCS Max"  group-title="Group N/A",OCS Max
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/409.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/3130.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="OCS City" tvg-logo="Logo N/A" tvg-name="OCS City"  group-title="Group N/A",OCS City
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/410.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/3129.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="OCS Choc" tvg-logo="Logo N/A" tvg-name="OCS Choc"  group-title="Group N/A",OCS Choc
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/239.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/1938.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="OCS Géants" tvg-logo="Logo N/A" tvg-name="OCS Géants"  group-title="Group N/A",OCS Géants
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1397.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/1937.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Action" tvg-logo="Logo N/A" tvg-name="Action"  group-title="Group N/A",Action
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=242
