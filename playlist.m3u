@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
 #EXTINF:0, tvg-id="TF1" tvg-logo="tf1hd.png" tvg-name="TF1"  group-title="Group N/A",TF1
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/703.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/91.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="France 2" tvg-logo="france2hd.png" tvg-name="France 2"  group-title="Group N/A",France 2
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=sd
@@ -10,13 +10,13 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=sd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=sd
 
 #EXTINF:0, tvg-id="Canal+" tvg-logo="canal+hd-fra.png" tvg-name="Canal+"  group-title="Group N/A",Canal+
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/743.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/2467.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="France 5" tvg-logo="france5hd.png" tvg-name="France 5"  group-title="Group N/A",France 5
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=203&flavour=sd
 
 #EXTINF:0, tvg-id="M6" tvg-logo="m6hd.png" tvg-name="M6"  group-title="Group N/A",M6
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/711.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/124.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Arte" tvg-logo="Logo N/A" tvg-name="Arte"  group-title="Group N/A",Arte
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204
@@ -25,7 +25,7 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=372&flavour=sd
 
 #EXTINF:0, tvg-id="W9" tvg-logo="Logo N/A" tvg-name="W9"  group-title="Group N/A",W9
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/700.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/1641.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="TMC" tvg-logo="Logo N/A" tvg-name="TMC"  group-title="Group N/A",TMC
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=497
@@ -58,13 +58,13 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=677
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=238
 
 #EXTINF:0, tvg-id="HD1" tvg-logo="Logo N/A" tvg-name="HD1"  group-title="Group N/A",HD1
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1512.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/82.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="L'Equipe 21" tvg-logo="Logo N/A" tvg-name="L'Equipe"  group-title="Group N/A",L'Equipe
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=994
 
 #EXTINF:0, tvg-id="6ter" tvg-logo="Logo N/A" tvg-name="6ter"  group-title="Group N/A",6ter
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/1935.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/88.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Numéro 23" tvg-logo="Logo N/A" tvg-name="Numéro 23"  group-title="Group N/A",Numéro 23
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=996
@@ -88,19 +88,19 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=213&flavour=ld
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=210
 
 #EXTINF:0, tvg-id="beIN SPORTS 1" tvg-logo="Logo N/A" tvg-name="beIN SPORTS 1"  group-title="Group N/A",beIN SPORTS 1
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/886.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/85.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="beIN SPORTS 2" tvg-logo="Logo N/A" tvg-name="beIN SPORTS 2"  group-title="Group N/A",beIN SPORTS 2
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/887.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/2.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="beIN SPORTS 3" tvg-logo="Logo N/A" tvg-name="beIN SPORTS 3"  group-title="Group N/A",beIN SPORTS 3
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/888.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/2433.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Eurosport" tvg-logo="Logo N/A" tvg-name="Eurosport 1"  group-title="Group N/A",Eurosport 1
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/142.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/59.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Eurosport 2" tvg-logo="Logo N/A" tvg-name="Eurosport 2"  group-title="Group N/A",Eurosport 2
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/87.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/2247.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="QVC"  group-title="Group N/A",QVC
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1121
@@ -115,40 +115,40 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=404&flavour=ld
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=211
 
 #EXTINF:0, tvg-id="Canal+ Cinéma" tvg-logo="Logo N/A" tvg-name="C+ Cinema"  group-title="Group N/A",C+ Cinema
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/742.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/81.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Canal+ Sport" tvg-logo="Logo N/A" tvg-name="C+ Sport"  group-title="Group N/A",C+ Sport
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/739.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/77.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Canal+ Séries" tvg-logo="Logo N/A" tvg-name="C+ Séries"  group-title="Group N/A",C+ Séries
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/740.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/78.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Canal+ Family" tvg-logo="Logo N/A" tvg-name="C+ Family"  group-title="Group N/A",C+ Family
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/741.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/79.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Canal+ Décalé" tvg-logo="Logo N/A" tvg-name="C+ Décalé"  group-title="Group N/A",C+ Décalé
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/153.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/80.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Disney Channel" tvg-logo="Logo N/A" tvg-name="Disney Channel"  group-title="Group N/A",Disney Channel
 http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/772.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Disney Cinema" tvg-logo="Logo N/A" tvg-name="Disney Cinéma"  group-title="Group N/A",Disney Cinéma
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/453.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/1229.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Ciné+ Premier" tvg-logo="Logo N/A" tvg-name="Ciné+ Premier"  group-title="Group N/A",Ciné+ Premier
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/731.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/61.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="OCS Max" tvg-logo="Logo N/A" tvg-name="OCS Max"  group-title="Group N/A",OCS Max
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/3130.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/895.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="OCS City" tvg-logo="Logo N/A" tvg-name="OCS City"  group-title="Group N/A",OCS City
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/3129.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/55.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="OCS Choc" tvg-logo="Logo N/A" tvg-name="OCS Choc"  group-title="Group N/A",OCS Choc
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/1938.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/814.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="OCS Géants" tvg-logo="Logo N/A" tvg-name="OCS Géants"  group-title="Group N/A",OCS Géants
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://pro213.com/live/abdulrhman340/1okbd9/1937.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/816.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Action" tvg-logo="Logo N/A" tvg-name="Action"  group-title="Group N/A",Action
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=242
@@ -436,19 +436,19 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1141&flavour=ld
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=413&flavour=sd
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rai Uno"  group-title="Group N/A",Rai Uno
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.wedobox.eu:8000/live/line09/gSq01fAByj/1633.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1988.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rai Duo"  group-title="Group N/A",Rai Duo
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.wedobox.eu:8000/live/line09/gSq01fAByj/1632.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1987.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rai Tre"  group-title="Group N/A",Rai Tre
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.wedobox.eu:8000/live/line09/gSq01fAByj/1631.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1986.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Italia 1"  group-title="Group N/A",Italia 1
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/789.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1948.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rete 4"  group-title="Group N/A",Rete 4
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/787.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1978.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 5"  group-title="Group N/A",Canal 5
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/78.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/pedro/skype/319.ts&amp;streamtype=TSDOWNLOADER
