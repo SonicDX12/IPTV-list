@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
 #EXTINF:0, tvg-id="TF1" tvg-logo="tf1hd.png" tvg-name="TF1"  group-title="Group N/A",TF1
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/207.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/downtown/downtown/2204.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="France 2" tvg-logo="france2hd.png" tvg-name="France 2"  group-title="Group N/A",France 2
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=sd
@@ -10,13 +10,13 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=sd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=sd
 
 #EXTINF:0, tvg-id="Canal+" tvg-logo="canal+hd-fra.png" tvg-name="Canal+"  group-title="Group N/A",Canal+
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/201.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/downtown/downtown/2206.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="France 5" tvg-logo="france5hd.png" tvg-name="France 5"  group-title="Group N/A",France 5
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=203&flavour=sd
 
 #EXTINF:0, tvg-id="M6" tvg-logo="m6hd.png" tvg-name="M6"  group-title="Group N/A",M6
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/216.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/downtown/downtown/3758.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Arte" tvg-logo="Logo N/A" tvg-name="Arte"  group-title="Group N/A",Arte
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204
@@ -25,7 +25,7 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=372&flavour=sd
 
 #EXTINF:0, tvg-id="W9" tvg-logo="w9hd.png" tvg-name="W9"  group-title="Group N/A",W9
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/224.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/downtown/downtown/3770.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="TMC" tvg-logo="tmc.png" tvg-name="TMC"  group-title="Group N/A",TMC
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=497
@@ -58,13 +58,13 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=677
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=238
 
 #EXTINF:0, tvg-id="HD1" tvg-logo="hd1_fr.png" tvg-name="HD1"  group-title="Group N/A",HD1
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/861.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/downtown/downtown/13159.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="L'Equipe 21" tvg-logo="l_equipe_21_fr.png" tvg-name="L'Equipe"  group-title="Group N/A",L'Equipe
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=994
 
 #EXTINF:0, tvg-id="6ter" tvg-logo="6ter.png" tvg-name="6ter"  group-title="Group N/A",6ter
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/1814.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/downtown/downtown/3723.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Numéro 23" tvg-logo="numero_23_fr.png" tvg-name="Numéro 23"  group-title="Group N/A",Numéro 23
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=996
@@ -76,7 +76,7 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=997
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=998
 
 #EXTINF:0, tvg-id="LCI - La Chaîne Info" tvg-logo="lci.png" tvg-name="LCI"  group-title="Group N/A",LCI
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/1227.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://m-iptv.net:8000/live/free1344273865/591f6d6fcf121/8030.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Franceinfo"  group-title="Group N/A",Franceinfo
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1173
@@ -88,19 +88,19 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=213&flavour=ld
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=210
 
 #EXTINF:0, tvg-id="beIN SPORTS 1" tvg-logo="BEIN-SPORTS-1.HD.png" tvg-name="beIN SPORTS 1"  group-title="Group N/A",beIN SPORTS 1
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/199.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/TestEUcustomer/519KYTJBGT/54.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="beIN SPORTS 2" tvg-logo="BEIN-SPORTS-2.HD.png" tvg-name="beIN SPORTS 2"  group-title="Group N/A",beIN SPORTS 2
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/200.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/TestEUcustomer/519KYTJBGT/53.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="beIN SPORTS 3" tvg-logo="BEIN-SPORTS-3.HD.png" tvg-name="beIN SPORTS 3"  group-title="Group N/A",beIN SPORTS 3
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/594.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/TestEUcustomer/519KYTJBGT/51.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Eurosport" tvg-logo="eurosport1hd.png" tvg-name="Eurosport 1"  group-title="Group N/A",Eurosport 1
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/206.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/downtown/downtown/2013.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Eurosport 2" tvg-logo="eurosport2hd.png" tvg-name="Eurosport 2"  group-title="Group N/A",Eurosport 2
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/1256.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/downtown/downtown/7572.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="QVC"  group-title="Group N/A",QVC
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1121
@@ -115,40 +115,40 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=404&flavour=ld
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=211
 
 #EXTINF:0, tvg-id="Canal+ Cinéma" tvg-logo="canal+cinemahd-fra.png" tvg-name="C+ Cinema"  group-title="Group N/A",C+ Cinema
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/202.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/downtown/downtown/2207.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Canal+ Sport" tvg-logo="canal+sporthd-fra.png" tvg-name="C+ Sport"  group-title="Group N/A",C+ Sport
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/205.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/downtown/downtown/2210.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Canal+ Séries" tvg-logo="canal+serieshd-fra.png" tvg-name="C+ Séries"  group-title="Group N/A",C+ Séries
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/868.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/downtown/downtown/2211.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Canal+ Family" tvg-logo="canal+familyhd-fra.png" tvg-name="C+ Family"  group-title="Group N/A",C+ Family
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/204.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/downtown/downtown/3735.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Canal+ Décalé" tvg-logo="canal+decalehd-fra.png" tvg-name="C+ Décalé"  group-title="Group N/A",C+ Décalé
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/203.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/downtown/downtown/3733.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Disney Channel" tvg-logo="disneychannelhd.png" tvg-name="Disney Channel"  group-title="Group N/A",Disney Channel
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/236.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/downtown/downtown/2241.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Disney Cinema" tvg-logo="Logo N/A" tvg-name="Disney Cinéma"  group-title="Group N/A",Disney Cinéma
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/901.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/downtown/downtown/13169.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Ciné+ Premier" tvg-logo="cine+premierhd.png" tvg-name="Ciné+ Premier"  group-title="Group N/A",Ciné+ Premier
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/878.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/downtown/downtown/2213.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="OCS Max" tvg-logo="ocsmaxhd.png" tvg-name="OCS Max"  group-title="Group N/A",OCS Max
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/902.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/downtown/downtown/3761.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="OCS City" tvg-logo="ocscityhd.png" tvg-name="OCS City"  group-title="Group N/A",OCS City
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/698.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/downtown/downtown/3763.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="OCS Choc" tvg-logo="ocschochd.png" tvg-name="OCS Choc"  group-title="Group N/A",OCS Choc
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/959.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/downtown/downtown/7576.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="OCS Géants" tvg-logo="ocsgeantshd.png" tvg-name="OCS Géants"  group-title="Group N/A",OCS Géants
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://149.202.81.112:8000/live/meddeb151/benothm/903.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/downtown/downtown/3762.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="Action" tvg-logo="action.png" tvg-name="Action"  group-title="Group N/A",Action
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=242
@@ -436,19 +436,19 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1141&flavour=ld
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=413&flavour=sd
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rai Uno"  group-title="Group N/A",Rai Uno
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.xa1q.com:8000/live/meddeb151/benothm/274.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/cran/cran/1662.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rai Duo"  group-title="Group N/A",Rai Duo
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.xa1q.com:8000/live/meddeb151/benothm/275.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/cran/cran/1663.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rai Tre"  group-title="Group N/A",Rai Tre
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.xa1q.com:8000/live/meddeb151/benothm/276.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/cran/cran/1664.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Italia 1"  group-title="Group N/A",Italia 1
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.xa1q.com:8000/live/meddeb151/benothm/241.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/cran/cran/5234.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rete 4"  group-title="Group N/A",Rete 4
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/ali/12345/4870.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/cran/cran/14200.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 5"  group-title="Group N/A",Canal 5
-http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://www.xa1q.com:8000/live/meddeb151/benothm/242.ts&amp;streamtype=TSDOWNLOADER
+http://localhost:62555/?plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/cran/cran/1666.ts&amp;streamtype=TSDOWNLOADER
